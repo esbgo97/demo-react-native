@@ -1,5 +1,5 @@
-# prueba_solvo
-This app shows result of Solvo Company Test
+# Demo React Native
+This app shows my development skills to implement cross platform app with React Native
 
 
 ## Features
